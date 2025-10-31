@@ -1,4 +1,4 @@
-# Integra 360 — Enterprise Solution
+# Integra 360 [Integra Health, Integra Retail, Integra Industry, Integra Services] — Enterprise Solution
 
 ## Developing by Health IT Integrations LLC
 
