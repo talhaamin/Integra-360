@@ -1,5 +1,7 @@
 # Integra 360 [Integra Health, Integra Retail, Integra Industry, Integra Services] — Enterprise Solution
 
+## Stopped this version and moved to Integra 360 2.0]
+
 ## Developing by Health IT Integrations LLC
 
 
