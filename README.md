@@ -1,4 +1,4 @@
-# Integra 360 [Integra Health, Integra Retail, Integra Industry, Integra Services] — Enterprise Solution [Abondoned, Started 2.0 from January 2027]
+# Integra 360 [Abondoned, Started 2.0 from January 2027]
 
 ## Stopped this version and moved to Integra 360 2.0]
 
