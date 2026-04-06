@@ -1,4 +1,4 @@
-# Integra 360 [Integra Health, Integra Retail, Integra Industry, Integra Services] — Enterprise Solution
+# Integra 360 [Integra Health, Integra Retail, Integra Industry, Integra Services] — Enterprise Solution [Abondoned, Started 2.0 from January 2027]
 
 ## Stopped this version and moved to Integra 360 2.0]
 
@@ -78,7 +78,7 @@ Workflow & Governance	Document Status lifecycle, multi-tier ApprovalWorkflow, an
 Master Data Management	Centralized definitions for Vendors, Items, UoM, Tax Rules, Departments, Employees, and Locations
 
 
-### Growth Roadmap 2026
+### Growth Roadmap 2026 [Abondoned, Started 2.0 from January 2027]
 
 Phase 1: GL transactions and automatic financial posting from all operational modules.
 
